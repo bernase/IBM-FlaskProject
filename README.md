@@ -10,15 +10,15 @@ Screenshot of a base folder structure:
 
 Output of Emotion predictions:
 
-![Emotion](https://github.com/bernase/IBM-FlaskProject/blob/main/3b_formatted_output_test.png)
+![Emotion](https://github.com/bernase/IBM-FlaskProject/blob/main/images/3b_formatted_output_test.png)
 
 Result of Unit tests:
 
-![UnitTest](https://github.com/bernase/IBM-FlaskProject/blob/main/5b_unit_testing_result.png)
+![UnitTest](https://github.com/bernase/IBM-FlaskProject/blob/main/images/5b_unit_testing_result.png)
 
 Result of deployment:
 
-![deployment](https://github.com/bernase/IBM-FlaskProject/blob/main/6b_deployment_test.png)
+![deployment](https://github.com/bernase/IBM-FlaskProject/blob/main/images/6b_deployment_test.png)
 
 
 Error Handlers added.
@@ -26,4 +26,4 @@ Error Handlers added.
 
 Result of code analysis:
 
-![deployment](https://github.com/bernase/IBM-FlaskProject/blob/main/8b_static_code_analysis.png)
+![deployment](https://github.com/bernase/IBM-FlaskProject/blob/main/images/8b_static_code_analysis.png)
