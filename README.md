@@ -8,5 +8,6 @@ Clone the project repository from https://github.com/ibm-developer-skills-networ
 
 Screenshot of folder structure:
 
-(https://github.com/bernase/IBM-FlaskProject/blob/main/1_folder_structure.png.jpeg)
+![Folder Structure](https://github.com/bernase/IBM-FlaskProject/raw/main/1_folder_structure.png.jpeg)
+
 
