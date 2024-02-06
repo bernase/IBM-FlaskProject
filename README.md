@@ -6,7 +6,7 @@ This project is made on https://www.coursera.org/professional-certificates/devop
 
 Screenshot of a base folder structure:
 
-![Folder Structure](https://github.com/bernase/IBM-FlaskProject/raw/main/1_folder_structure.png.jpeg)
+![Folder Structure](https://github.com/bernase/IBM-FlaskProject/raw/main/images/1_folder_structure.png.jpeg)
 
 Output of Emotion predictions:
 
