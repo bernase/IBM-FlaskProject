@@ -20,7 +20,10 @@ Result of deployment:
 
 ![deployment](https://github.com/bernase/IBM-FlaskProject/blob/main/6b_deployment_test.png)
 
+
 Error Handlers added.
 
+
 Result of code analysis:
+
 ![deployment](https://github.com/bernase/IBM-FlaskProject/blob/main/8b_static_code_analysis.png)
